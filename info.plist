@@ -8,11 +8,102 @@
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
+		<key>022CC5AA-B54B-41CC-9DC0-2BA3A1E4A7E3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>650E9DFE-2D39-4E6F-AF73-3DD463520472</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>09099277-AE13-43D5-871D-0EB4EEF7039B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2486D1DB-796D-48E7-B14B-EE240243C01C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0A8BD4A1-20CD-455B-86DE-461B129BB678</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BE01AE2C-51D2-4875-9D47-78A7460046D1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0B2D2A6D-9DA1-4FAA-8224-E40C46ECEDE6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>675CBCCC-F2F4-42DE-B6EE-B2674CE0652C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>20AD763F-AA21-4288-B60C-CFBBAA820335</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EA530BA1-C2DE-4526-8737-B8A749DD5DFB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>2FDE6407-45D0-4E9C-9DBF-1E08FE1BFD5A</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>12CA673B-CDE4-413E-92FF-E3890E521492</string>
+				<string>274301D1-BDC6-48EE-8AE0-DC1EE1CE276B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4E656EB1-FB22-4864-8059-02EEF14C3A1E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BA389E3D-EA92-448B-A900-E3AE936682F1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>675CBCCC-F2F4-42DE-B6EE-B2674CE0652C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D476144D-E233-46E9-AB7E-B72AA8C256B5</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -38,7 +129,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>378C7FF1-9254-42BA-BA08-0927320B805B</string>
+				<string>75C40384-ABC4-4CA0-9C4C-DE2C9701E876</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -60,11 +151,52 @@
 				<false/>
 			</dict>
 		</array>
+		<key>7F713962-07A6-4D78-A73C-7BEF92BC3305</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>749C5BCB-2B2E-40C8-A5BC-098D9FC7AD67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>89918C0E-274B-4256-8895-23569A4844BA</key>
+		<array/>
 		<key>9F100B56-8ED8-4854-9D14-81EAC2076D20</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>84C01828-9A13-4A71-A46B-4C33B26CA662</string>
+				<string>BCB937B9-0E63-4AA2-9A1E-73F900897E62</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A03DD025-5BAC-4716-8B1D-F66B4ED17491</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>455B7D50-E6BC-4EFB-A818-98D60E76147A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B2B959C3-5E65-413E-8876-FA75A4FC31FE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0F6EC658-5604-4FEA-8781-89DCEFD86DCE</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -77,7 +209,46 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>CB810E5C-C077-4EE8-B5CB-60B3E09AB32E</string>
+				<string>6D1753AB-B0A2-42FB-BF40-0E120AAD74D9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DED2D583-A5E3-44D8-86E2-72A2B6384EAD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>438AC861-3A8D-4BA1-96B5-98CE05EED258</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F435C4C7-6FED-4531-954F-44521C4FA435</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E6DFDB65-E0A3-4EBF-A418-33BD38C1792D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F4E6C292-119F-4154-A2CC-55C81E06DA6B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9A597B61-995E-4FF3-89C7-79562ACCEDC0</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -109,11 +280,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>86</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>3145728</integer>
 				<key>hotstring</key>
-				<string></string>
+				<string>4</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -131,6 +302,37 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  tell application "Swinsian"
+
+	-- basic playback controls
+	-- play
+	-- pause
+	-- stop
+
+	-- toggles playback if paused and vice versa
+	-- playpause
+
+	-- skipping
+	-- next track
+	previous track
+
+end tell
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>BCB937B9-0E63-4AA2-9A1E-73F900897E62</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>command</key>
 				<integer>3</integer>
 			</dict>
@@ -138,6 +340,41 @@
 			<string>alfred.workflow.action.itunescommand</string>
 			<key>uid</key>
 			<string>84C01828-9A13-4A71-A46B-4C33B26CA662</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>command</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.itunescommand</string>
+			<key>uid</key>
+			<string>CB810E5C-C077-4EE8-B5CB-60B3E09AB32E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+
+tell application "Swinsian"
+	-- toggles playback if paused and vice versa
+	playpause
+end tell
+
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>6D1753AB-B0A2-42FB-BF40-0E120AAD74D9</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -153,11 +390,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>87</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>3145728</integer>
 				<key>hotstring</key>
-				<string></string>
+				<string>5</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -175,13 +412,31 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>command</key>
-				<integer>1</integer>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  tell application "Swinsian"
+
+	-- basic playback controls
+	-- play
+	-- pause
+	-- stop
+
+	-- toggles playback if paused and vice versa
+	-- playpause
+
+	-- skipping
+	next track
+	-- previous track
+
+end tell
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.itunescommand</string>
+			<string>alfred.workflow.action.applescript</string>
 			<key>uid</key>
-			<string>CB810E5C-C077-4EE8-B5CB-60B3E09AB32E</string>
+			<string>274301D1-BDC6-48EE-8AE0-DC1EE1CE276B</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -210,11 +465,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>88</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>3145728</integer>
 				<key>hotstring</key>
-				<string></string>
+				<string>6</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -228,6 +483,25 @@
 			<string>2FDE6407-45D0-4E9C-9DBF-1E08FE1BFD5A</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+
+set pathList to "~"if frontmost of application "Finder" then	tell application "Finder"		set fileList to selection as alias list		if fileList is not equal to {} then			set someItem to (item 1 of fileList) as text			set filePosixPath to quoted form of (POSIX path of someItem)			set fileType to (do shell script "file -b " &amp; filePosixPath)			if fileType ends with "directory" then				set pathList to filePosixPath			else				set pathList to (quoted form of POSIX path of (folder of the front window as alias))			end if		else			set pathList to (quoted form of POSIX path of (folder of the front window as alias))		end if			end tellend iftell application "System Events"	tell application "Terminal"		activate		if exists window 1 then			do script ("cd " &amp; pathList) in window 1		else			do script ("cd " &amp; pathList)		end if	end tellend tell
+
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>530A517F-AE7E-40A6-B75F-990953AAE31D</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -254,11 +528,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>84</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>3145728</integer>
 				<key>hotstring</key>
-				<string></string>
+				<string>2</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -276,33 +550,19 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
+				<key>applescript</key>
+				<string>on alfred_script(q)	tell application q		# set frontmost to true
+		activate	end tell	
+end alfred_script</string>
+				<key>cachescript</key>
 				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>0</integer>
-				<key>hotmod</key>
-				<integer>0</integer>
-				<key>hotstring</key>
-				<string></string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
+			<string>alfred.workflow.action.applescript</string>
 			<key>uid</key>
-			<string>766B037D-4D07-4165-B0EB-523399341447</string>
+			<string>89918C0E-274B-4256-8895-23569A4844BA</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -320,17 +580,33 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>applescript</key>
-				<string>on alfred_script(q)		set pathList to "~"	if frontmost of application "Finder" then		tell application "Finder"			set fileList to selection as alias list			if fileList is equal to {} then				set pathList to (quoted form of POSIX path of (folder of the front window as alias))			else				set pathList to (quoted form of POSIX path of (item 1 of fileList))			end if		end tell	end if	tell application "System Events"		tell application "Terminal"			activate			if exists window 1 then				do script ("cd " &amp; pathList) in window 1			else				do script ("cd " &amp; pathList)			end if		end tell	end tell	end alfred_script</string>
-				<key>cachescript</key>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
 				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>91</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>8</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.applescript</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>378C7FF1-9254-42BA-BA08-0927320B805B</string>
+			<string>766B037D-4D07-4165-B0EB-523399341447</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -357,10 +633,70 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+
+set pathList to "~"if frontmost of application "Finder" then	tell application "Finder"		set fileList to selection as alias list		if fileList is not equal to {} then			set someItem to (item 1 of fileList) as text			set filePosixPath to quoted form of (POSIX path of someItem)			set fileType to (do shell script "file -b " &amp; filePosixPath)			if fileType ends with "directory" then				set pathList to filePosixPath			else				set pathList to (quoted form of POSIX path of (folder of the front window as alias))			end if		else			set pathList to (quoted form of POSIX path of (folder of the front window as alias))		end if			end tellend if
+tell application "System Events"	tell application "Terminal"		activate		if exists window 1 then			do script ("cd " &amp; pathList) in window 1		else			do script ("cd " &amp; pathList)		end if	end tellend tell
+
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>33E45E44-D824-4E1A-BBA4-1F2E5139A467</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+
+set pathList to "~"if frontmost of application "Finder" then	tell application "Finder"		set fileList to selection as alias list		if fileList is not equal to {} then			set someItem to (item 1 of fileList) as text			set filePosixPath to quoted form of (POSIX path of someItem)			set fileType to (do shell script "file -b " &amp; filePosixPath)			if fileType ends with "directory" then				set pathList to filePosixPath			else				set pathList to (quoted form of POSIX path of (folder of the front window as alias))			end if		else			set pathList to (quoted form of POSIX path of (folder of the front window as alias))		end if			end tellend if
+
+set dir to "cd " &amp; pathList as text
+run script "
+	on run {dir}
+		tell application \":Applications:iTerm.app\"
+			activate
+			delay 0.25
+				try
+					select first window
+				on error
+					create window with default profile
+					select first window
+				end try
+				tell the first window
+					activate
+					tell current session to write text dir
+				end tell
+
+		end tell
+	end run
+        " with parameters {dir}
+
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>0F6EC658-5604-4FEA-8781-89DCEFD86DCE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>action</key>
 				<integer>0</integer>
 				<key>argument</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>focusedappvariable</key>
 				<false/>
 				<key>focusedappvariablename</key>
@@ -375,8 +711,105 @@ end alfred_script</string>
 				<false/>
 				<key>modsmode</key>
 				<integer>0</integer>
+				<key>relatedApps</key>
+				<array>
+					<string>com.apple.finder</string>
+				</array>
 				<key>relatedAppsMode</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>B2B959C3-5E65-413E-8876-FA75A4FC31FE</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(qr) 
+if frontmost of application "Finder" then	tell application "Finder"		set finderSelList to selection as alias list	end tell		if finderSelList ≠ {} then		repeat with i in finderSelList			set posixFile to POSIX path of i			my runIniTerm("nvim '" &amp; posixFile &amp; "'")		end repeat				--set AppleScript's text item delimiters to linefeed		finderSelList as text	end if	end if
+end anfred_script
+
+on is_running(app_name)	tell application "System Events" to (name of processes) contains app_nameend is_runningon runIniTerm(q)	if is_running("iTerm2") or is_running("iTerm") then		run script "
+            on run {q}
+                tell application \":Applications:iTerm.app\"
+                    activate
+                    try
+                        select first window
+                        set onlywindow to true
+                    on error
+                        create window with default profile
+                        select first window
+                        set onlywindow to true
+                    end try
+                    tell the first window
+                        if onlywindow is true then
+                            create tab with default profile
+                        end if
+                        tell current session to write text q
+                    end tell
+                end tell
+            end run
+        " with parameters {q}	else		run script "
+	on run {q}
+		tell application \":Applications:iTerm.app\"
+			activate
+			delay 0.5
+
+				try
+					select first window
+				on error
+					create window with default profile
+					select first window
+				end try
+				tell the first window
+					activate
+					tell current session to write text q
+				end tell
+
+		end tell
+	end run
+        " with parameters {q}	end ifend runIniTerm</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>75C40384-ABC4-4CA0-9C4C-DE2C9701E876</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
 				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>120</integer>
+				<key>hotmod</key>
+				<integer>8388608</integer>
+				<key>hotstring</key>
+				<string>F2</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedApps</key>
+				<array>
+					<string>com.apple.finder</string>
+				</array>
+				<key>relatedAppsMode</key>
+				<integer>1</integer>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.hotkey</string>
@@ -385,105 +818,902 @@ end alfred_script</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Android Studio.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>9A597B61-995E-4FF3-89C7-79562ACCEDC0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>3</integer>
+				<key>argumenttext</key>
+				<string>Music</string>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>65</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>.</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>A03DD025-5BAC-4716-8B1D-F66B4ED17491</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>3</integer>
+				<key>argumenttext</key>
+				<string>Music</string>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>89</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>7</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>F4E6C292-119F-4154-A2CC-55C81E06DA6B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/System/Applications/Music.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>74692150-965D-46E7-97F4-E7D817723BFB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Swinsian.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>455B7D50-E6BC-4EFB-A818-98D60E76147A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>105</integer>
+				<key>hotmod</key>
+				<integer>8388608</integer>
+				<key>hotstring</key>
+				<string>F13</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>7F713962-07A6-4D78-A73C-7BEF92BC3305</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Rider.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>650E9DFE-2D39-4E6F-AF73-3DD463520472</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>3</integer>
+				<key>argumenttext</key>
+				<string>Music</string>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>92</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>9</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>022CC5AA-B54B-41CC-9DC0-2BA3A1E4A7E3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/System/Applications/Utilities/Screenshot.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>749C5BCB-2B2E-40C8-A5BC-098D9FC7AD67</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/Arc.app</string>
+				</array>
+				<key>toggle</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>BA389E3D-EA92-448B-A900-E3AE936682F1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>82</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>0</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>4E656EB1-FB22-4864-8059-02EEF14C3A1E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>113</integer>
+				<key>hotmod</key>
+				<integer>9961472</integer>
+				<key>hotstring</key>
+				<string>F15</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>DED2D583-A5E3-44D8-86E2-72A2B6384EAD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>command</key>
+				<integer>5</integer>
+				<key>confirm</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.systemcommand</string>
+			<key>uid</key>
+			<string>438AC861-3A8D-4BA1-96B5-98CE05EED258</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>85</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>3</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>F435C4C7-6FED-4531-954F-44521C4FA435</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>SwitchAudioSource -s "Jabra Elite 75t"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E6DFDB65-E0A3-4EBF-A418-33BD38C1792D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>3</integer>
+				<key>hotmod</key>
+				<integer>1441792</integer>
+				<key>hotstring</key>
+				<string>F</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>20AD763F-AA21-4288-B60C-CFBBAA820335</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>path</key>
+				<string>~/Documents</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.revealfile</string>
+			<key>uid</key>
+			<string>EA530BA1-C2DE-4526-8737-B8A749DD5DFB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>83</integer>
+				<key>hotmod</key>
+				<integer>3145728</integer>
+				<key>hotstring</key>
+				<string>1</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>0A8BD4A1-20CD-455B-86DE-461B129BB678</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>SwitchAudioSource -s "DAC LOOPBACK"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BE01AE2C-51D2-4875-9D47-78A7460046D1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>reset-jetbrains</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Reset Jetbrains evaluations license</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>09099277-AE13-43D5-871D-0EB4EEF7039B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>sh /Volumes/RAID1/Files/MACOS/JETBRAINS/resetJetbrains-mac.sh</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2486D1DB-796D-48E7-B14B-EE240243C01C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Check followees file</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>D476144D-E233-46E9-AB7E-B72AA8C256B5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>cd ~
+python3  /Users/arthur/instagram_gaby_followers.py</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>675CBCCC-F2F4-42DE-B6EE-B2674CE0652C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>instagram-gaby</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Get Instagram Followees</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>0B2D2A6D-9DA1-4FAA-8224-E40C46ECEDE6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>022CC5AA-B54B-41CC-9DC0-2BA3A1E4A7E3</key>
+		<dict>
+			<key>xpos</key>
+			<real>695</real>
+			<key>ypos</key>
+			<real>855</real>
+		</dict>
+		<key>09099277-AE13-43D5-871D-0EB4EEF7039B</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>1275</real>
+		</dict>
+		<key>0A8BD4A1-20CD-455B-86DE-461B129BB678</key>
+		<dict>
+			<key>xpos</key>
+			<real>615</real>
+			<key>ypos</key>
+			<real>1180</real>
+		</dict>
+		<key>0B2D2A6D-9DA1-4FAA-8224-E40C46ECEDE6</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>1380</real>
+		</dict>
+		<key>0F6EC658-5604-4FEA-8781-89DCEFD86DCE</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>540</real>
+		</dict>
 		<key>12CA673B-CDE4-413E-92FF-E3890E521492</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>600</real>
 			<key>ypos</key>
-			<integer>235</integer>
+			<real>225</real>
+		</dict>
+		<key>20AD763F-AA21-4288-B60C-CFBBAA820335</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>1170</real>
+		</dict>
+		<key>2486D1DB-796D-48E7-B14B-EE240243C01C</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>1275</real>
+		</dict>
+		<key>274301D1-BDC6-48EE-8AE0-DC1EE1CE276B</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>225</real>
 		</dict>
 		<key>2FDE6407-45D0-4E9C-9DBF-1E08FE1BFD5A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>165</integer>
+			<real>165</real>
 			<key>ypos</key>
-			<integer>235</integer>
+			<real>225</real>
 		</dict>
-		<key>378C7FF1-9254-42BA-BA08-0927320B805B</key>
+		<key>33E45E44-D824-4E1A-BBA4-1F2E5139A467</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>1105</real>
 			<key>ypos</key>
-			<integer>590</integer>
+			<real>530</real>
+		</dict>
+		<key>438AC861-3A8D-4BA1-96B5-98CE05EED258</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>1065</real>
+		</dict>
+		<key>455B7D50-E6BC-4EFB-A818-98D60E76147A</key>
+		<dict>
+			<key>xpos</key>
+			<real>390</real>
+			<key>ypos</key>
+			<real>750</real>
+		</dict>
+		<key>4E656EB1-FB22-4864-8059-02EEF14C3A1E</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>960</real>
+		</dict>
+		<key>530A517F-AE7E-40A6-B75F-990953AAE31D</key>
+		<dict>
+			<key>xpos</key>
+			<real>825</real>
+			<key>ypos</key>
+			<real>300</real>
+		</dict>
+		<key>650E9DFE-2D39-4E6F-AF73-3DD463520472</key>
+		<dict>
+			<key>xpos</key>
+			<real>870</real>
+			<key>ypos</key>
+			<real>855</real>
+		</dict>
+		<key>675CBCCC-F2F4-42DE-B6EE-B2674CE0652C</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>1380</real>
 		</dict>
 		<key>6AAF8E94-0867-4D69-B776-20BD0D985905</key>
 		<dict>
 			<key>xpos</key>
-			<integer>165</integer>
+			<real>165</real>
 			<key>ypos</key>
-			<integer>340</integer>
+			<real>330</real>
+		</dict>
+		<key>6D1753AB-B0A2-42FB-BF40-0E120AAD74D9</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>120</real>
 		</dict>
 		<key>7091BA2A-1189-4F36-A530-8DCA6A90DDA0</key>
 		<dict>
 			<key>xpos</key>
-			<integer>165</integer>
+			<real>165</real>
 			<key>ypos</key>
-			<integer>590</integer>
+			<real>645</real>
+		</dict>
+		<key>74692150-965D-46E7-97F4-E7D817723BFB</key>
+		<dict>
+			<key>xpos</key>
+			<real>515</real>
+			<key>ypos</key>
+			<real>750</real>
+		</dict>
+		<key>749C5BCB-2B2E-40C8-A5BC-098D9FC7AD67</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>855</real>
+		</dict>
+		<key>75C40384-ABC4-4CA0-9C4C-DE2C9701E876</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>645</real>
 		</dict>
 		<key>766B037D-4D07-4165-B0EB-523399341447</key>
 		<dict>
 			<key>xpos</key>
-			<integer>165</integer>
+			<real>165</real>
 			<key>ypos</key>
-			<integer>445</integer>
+			<real>435</real>
+		</dict>
+		<key>7F713962-07A6-4D78-A73C-7BEF92BC3305</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>855</real>
 		</dict>
 		<key>84C01828-9A13-4A71-A46B-4C33B26CA662</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>605</real>
 			<key>ypos</key>
-			<integer>25</integer>
+			<real>15</real>
+		</dict>
+		<key>89918C0E-274B-4256-8895-23569A4844BA</key>
+		<dict>
+			<key>xpos</key>
+			<real>825</real>
+			<key>ypos</key>
+			<real>410</real>
+		</dict>
+		<key>9A597B61-995E-4FF3-89C7-79562ACCEDC0</key>
+		<dict>
+			<key>xpos</key>
+			<real>870</real>
+			<key>ypos</key>
+			<real>750</real>
 		</dict>
 		<key>9F100B56-8ED8-4854-9D14-81EAC2076D20</key>
 		<dict>
 			<key>xpos</key>
-			<integer>165</integer>
+			<real>165</real>
 			<key>ypos</key>
-			<integer>25</integer>
+			<real>15</real>
+		</dict>
+		<key>A03DD025-5BAC-4716-8B1D-F66B4ED17491</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>750</real>
 		</dict>
 		<key>A0BD165B-08E6-412A-8413-371848C4ADD2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>450</real>
 			<key>ypos</key>
-			<integer>445</integer>
+			<real>435</real>
+		</dict>
+		<key>B2B959C3-5E65-413E-8876-FA75A4FC31FE</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>540</real>
+		</dict>
+		<key>BA389E3D-EA92-448B-A900-E3AE936682F1</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>960</real>
+		</dict>
+		<key>BCB937B9-0E63-4AA2-9A1E-73F900897E62</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>BE01AE2C-51D2-4875-9D47-78A7460046D1</key>
+		<dict>
+			<key>xpos</key>
+			<real>770</real>
+			<key>ypos</key>
+			<real>1180</real>
 		</dict>
 		<key>CB810E5C-C077-4EE8-B5CB-60B3E09AB32E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>605</real>
 			<key>ypos</key>
-			<integer>130</integer>
+			<real>120</real>
 		</dict>
 		<key>D1422777-5812-41D6-BCAC-2B7BFD33AF2E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>165</integer>
+			<real>165</real>
 			<key>ypos</key>
-			<integer>130</integer>
+			<real>120</real>
+		</dict>
+		<key>D476144D-E233-46E9-AB7E-B72AA8C256B5</key>
+		<dict>
+			<key>xpos</key>
+			<real>670</real>
+			<key>ypos</key>
+			<real>1380</real>
 		</dict>
 		<key>D6991972-8941-4446-8EF9-3AEC49E88E4A</key>
 		<dict>
 			<key>note</key>
 			<string>teste dialog</string>
 			<key>xpos</key>
-			<integer>890</integer>
+			<real>825</real>
 			<key>ypos</key>
-			<integer>590</integer>
+			<real>525</real>
+		</dict>
+		<key>DED2D583-A5E3-44D8-86E2-72A2B6384EAD</key>
+		<dict>
+			<key>xpos</key>
+			<real>165</real>
+			<key>ypos</key>
+			<real>1065</real>
 		</dict>
 		<key>E18870FE-7323-4697-AEC2-E8D8D8009684</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>450</real>
 			<key>ypos</key>
-			<integer>340</integer>
+			<real>330</real>
+		</dict>
+		<key>E6DFDB65-E0A3-4EBF-A418-33BD38C1792D</key>
+		<dict>
+			<key>xpos</key>
+			<real>770</real>
+			<key>ypos</key>
+			<real>1070</real>
+		</dict>
+		<key>EA530BA1-C2DE-4526-8737-B8A749DD5DFB</key>
+		<dict>
+			<key>xpos</key>
+			<real>450</real>
+			<key>ypos</key>
+			<real>1170</real>
+		</dict>
+		<key>F435C4C7-6FED-4531-954F-44521C4FA435</key>
+		<dict>
+			<key>xpos</key>
+			<real>615</real>
+			<key>ypos</key>
+			<real>1070</real>
+		</dict>
+		<key>F4E6C292-119F-4154-A2CC-55C81E06DA6B</key>
+		<dict>
+			<key>xpos</key>
+			<real>695</real>
+			<key>ypos</key>
+			<real>750</real>
 		</dict>
 	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
